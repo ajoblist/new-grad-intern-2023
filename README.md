@@ -1,5 +1,28 @@
 # New Grad / Intern 2023
 
+## Company
+- Amazon
+- Cisco
+- Databricks
+- Dropbox
+- IBM
+- Linkedin
+- Lyft
+- Oracle
+- Paypal
+- Pinterest
+- Roblox
+- Robinhood
+- Salesforce
+- Spotify
+- Tesla
+- Tusimple
+- Uber
+- Wish
+- Yahoo
+- Yelp
+
+
 ## New Grad
 
 | Company     | positions| location |  key requirements | tips |
@@ -22,8 +45,7 @@
 | Tusimple      | <ul><li>[Onboard Platform Software: Software Engineer, C++](https://boards.greenhouse.io/tusimple/jobs/5951184002)</li><li>[Onboard Platform Software: Software Engineer, C++](https://boards.greenhouse.io/tusimple/jobs/6154308002)</li></ul>    | 	San Diego, CA     | -    | - |
 | Uber      | <ul><li>[Software Engineer](https://www.uber.com/global/en/careers/list/108957/)</li><li>[Software Engineer/Sr Software Engineer - iOS (Earner)](https://www.uber.com/global/en/careers/list/114675/)</li><li>[Software Engineer (Storage)](https://www.uber.com/global/en/careers/list/109004/)</li><li>[Software Engineer (Android)](https://www.uber.com/global/en/careers/list/114096/)</li><li>[Software Engineer - Product Intelligence](https://www.uber.com/global/en/careers/list/63377/)</li><li>[Software Engineer (iOS)](https://www.uber.com/global/en/careers/list/114093/)</li></ul>    | 	San Francisco, California /  Seattle, Washington / Remote, United States   | -    | - |
 | Wish      | <ul><li>[Software Engineer - Backend](https://jobs.smartrecruiters.com/Wish/743999837644118)</li><li>[Software Engineer - Core Storage](https://jobs.smartrecruiters.com/Wish/743999837642308)</li><li>[Software Engineer - User Onboarding (Android)](https://jobs.smartrecruiters.com/Wish/743999837641871)</li></ul>    | 	San Francisco, CA / Remote, United States   | -    | - |
-| Yahoo      | <ul><li>[Software Development Engineer](https://www.linkedin.com/jobs/view/3173102358/)</li><li>[Software Dev Engineer](https://www.linkedin.com/jobs/view/3172997548/)</li><li>[Software Dev Engineer I
-](https://www.linkedin.com/jobs/view/3136407788/)</li><li>[Software Dev Engineer I](https://www.linkedin.com/jobs/view/3159962193/)</li></ul>    | 	 United States (Remote)    | -    | - |
+| Yahoo      | <ul><li>[Software Development Engineer](https://www.linkedin.com/jobs/view/3173102358/)</li><li>[Software Dev Engineer](https://www.linkedin.com/jobs/view/3172997548/)</li><li>[Software Dev Engineer I](https://www.linkedin.com/jobs/view/3136407788/)</li><li>[Software Dev Engineer I](https://www.linkedin.com/jobs/view/3159962193/)</li></ul>    | 	 United States (Remote)    | -    | - |
 | Yelp      | <ul><li>[Software Engineer – Core iOS (Remote)](https://www.yelp.careers/us/en/job/86726eae-ebd6-45ce-965c-73f0339aa52a/Software-Engineer-Core-iOS-Remote)</li></ul>    | 	San Francisco, CA / Remote, United States   | -    | - |
 
 
