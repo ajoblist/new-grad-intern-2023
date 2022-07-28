@@ -6,12 +6,14 @@
 - Cisco
 - Databricks
 - Dropbox
+- EMERSON
 - IBM
 - Linkedin
 - Lyft
 - Optiver
 - Oracle
 - Paypal
+- Philadelphia Phillies Baseball Operations Department
 - Pinterest
 - Procter & Gamble
 - Roblox
@@ -32,7 +34,7 @@
 
 | Company     | positions| location |  key requirements | tips |
 | ---------   | -------  | -------  |  -------- |-------  |
-| Amazon      | <ul><li>[2023 Software Development Graduate](https://www.amazon.jobs/zh/jobs/2131289/2023-software-development-graduate)</li><li>[Software Development Engineer Intern - 2023 (Canada)](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada)</li></ul>    | US, WA, Seattle / CA, BC, Vancouver    | Currently enrolled in or completed within the last 12 months a Bachelor’s or Master’s Degree in Computer Science or majors relating to these fields are considered    | -   |
+| Amazon      | <ul><li>[2023 Software Development Graduate](https://www.amazon.jobs/zh/jobs/2131289/2023-software-development-graduate)</li><li>[Front-End Engineer – 2023 (US)](https://www.amazon.jobs/zh/jobs/2141834/front-end-engineer-2023-us)</li><li>[Software Development Engineer Intern - 2023 (Canada)](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada)</li></ul>    | US, WA, Seattle / CA, BC, Vancouver    | Currently enrolled in or completed within the last 12 months a Bachelor’s or Master’s Degree in Computer Science or majors relating to these fields are considered    | -   |
 | Baseten      | <ul><li>[Full-stack engineer (New grad)](https://jobs.ashbyhq.com/baseten/f0b68c84-4110-4097-81fe-248842fe4a6b)</li></ul>    | Remote / San Francisco    | -    | -   |
 | Cisco      | <ul><li>[Software Engineer, Core Product Build Systems - (Early Career, Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Core-Product-Build-Systems-Early-Career-Meraki/1373876)</li><li>[Full Stack Engineer, Early Career (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139)</li><li>[Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer/1372966)</li></ul>    | Offsite, San Francisco, California, US    | -    | - |
 | Databricks      | <ul><li>[Software Engineer - Frontend](https://databricks.com/company/careers/open-positions/job?gh_jid=5445622002)</li><li>[Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=4477020002#grnhse_app)</li></ul>    | San Francisco, California    | -    | - |
@@ -48,6 +50,7 @@
 | Roblox      | <ul><li>[Software Engineer, Communication](https://jobs.roblox.com/careers?query=software%20engineer&pid=137450972689)</li></ul>    | San Mateo, CA, United States     | -    | - |
 | Robinhood      | <ul><li>[Software Engineer, Application Security](https://boards.greenhouse.io/robinhood/jobs/3984529?gh_src=NaN&gh_jid=3984529)</li></ul>    | Remote     | -    | - |
 | Salesforce      | <ul><li>[Software Engineer - Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer---Slack_JR145023-1)</li></ul>    | California - San Francisco     | -    | - |
+| SIG      | <ul><li>[Software Developer- Campus 2023 Start](https://careers.sig.com/job/6229/Software-Developer-Campus-2023-Start)</li></ul>    | Bala Cynwyd (Philadelphia Area), Pennsylvania United States     | -    | - |
 | Spotify      | <ul><li>[C++ Engineer - Developer Experience](https://www.lifeatspotify.com/jobs/c-engineer-developer-experience-2)</li><li>[Android Engineer - Messaging](https://www.lifeatspotify.com/jobs/android-engineer-messaging)</li><li>[iOS Engineer - Spotify Live](https://www.lifeatspotify.com/jobs/ios-engineer-spotify-live)</li><li>[Full Stack Engineer](https://www.lifeatspotify.com/jobs/full-stack-engineer-integrations-tooling-integrations-labs-advertising)</li><li>[Full Stack Engineer - Cost Engineering](https://www.lifeatspotify.com/jobs/full-stack-engineer-cost-engineering)</li><li>[Web Engineer - Advertising](https://www.lifeatspotify.com/jobs/web-engineer-advertising-2)</li><li>[Backend Engineer - Reliability](https://www.lifeatspotify.com/jobs/backend-engineer-reliability)</li><li>[Backend Engineer - Core Infrastructure](https://www.lifeatspotify.com/jobs/backend-engineer-core-infrastructure-3)</li><li>[Software Engineer - Test - Advertising](https://www.lifeatspotify.com/jobs/software-engineer-test-advertising)</li></ul>    | Stockholm, NewYork or Remote Americas     | -    | - |
 | Susquehanna International Group      | <ul><li>[Software Developer- Campus 2023 Start](https://careers.sig.com/job/6229/Software-Developer-Campus-2023-Start)</li></ul>    | Bala-Cynwyd, PA     | -    | - |
 | Tesla      | <ul><li>[Software Engineer, Mobile](https://www.tesla.com/careers/search/job/software-engineer-mobile-108805)</li><li>[Software Engineer, Front-End](https://www.tesla.com/careers/search/job/software-engineer-front-end-105361)</li><li>[Software Engineer, NodeJS](https://www.tesla.com/careers/search/job/software-engineer-nodejs-119715)</li><li>[Software Engineer, GoLang](https://www.tesla.com/careers/search/job/software-engineer-golang-74111)</li><li>[Software Engineer, Automation](https://www.tesla.com/careers/search/job/software-engineer-automation-105685)</li><li>[Software Engineer](https://www.tesla.com/careers/search/job/software-engineer-105258)</li></ul>    | 	Fremont, Palo Alto, California     | -    | - |
@@ -66,7 +69,10 @@
 | ---------   | -------  | -------  |  -------- |-------  |
 | Amazon      | <ul><li>[Software Development Engineer Internship - 2023 (US)](https://www.amazon.jobs/zh/jobs/2110678/software-development-engineer-internship-2023-us)</li><li>[Jr. Software Developer](https://www.amazon.jobs/zh/jobs/1710212/jr-software-developer)</li></ul>    | US, WA, Seattle / US, CA, Irvine  | 16 hour workweek during school session and 40 hour workweek during summer     | Preferred Java   |
 | Cisco      | <ul><li>[Full Stack Software Engineer Intern - Summer 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Software-Engineer-Intern-Summer-2023-Meraki/1368018)</li><li>[Product Software Engineer (Firmware / Features) Intern - Summer 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Summer-2023-Meraki/1373285)</li><li>[Product Software Engineer (Firmware / Features) Intern - Winter 2023 (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Firmware-Features-Intern-Winter-2023-Meraki/1369140)</li></ul>    | San Francisco, California, US    | -    | - |
+| EMERSON      | <ul><li>[Software Development Co-Op (Spring 2023 Semester - January Start)](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22021022/?keyword=start&mode=location)</li><</ul>    | Elyria, OH, United States
+    | -    | - |
 | Google      | <ul><li>[Software Engineering Intern, PhD, Winter 2023](https://careers.google.com/jobs/results/108207260712215238-software-engineering-intern-phd-winter-2023/)</li><li>[Software Engineering Intern, Master's, Winter 2023](https://careers.google.com/jobs/results/104941917336150726-software-engineering-intern-masters-winter-2023/)</li><li>[Software Engineering Intern, Bachelors, Winter 2023](https://careers.google.com/jobs/results/119412589869310662-software-engineering-intern-bachelors-winter-2023/)</li></ul>    | Mountain View, CA, USA, Austin, TX, USA, Cambridge, MA, USA, + 14 more locations  | Experience coding in one or more of C, C++, Java, JavaScript, Python, or similar.    | Please complete your application before August 19, 2022.   |
 | Linkedin      | <ul><li>[Mobile Engineer Intern - Fall 2022](https://www.linkedin.com/jobs/view/3120069353/)</li></ul>    | Sunnyvale, CA (Hybrid)   | -   | -   |
 | Optiver      | <ul><li>[Software Engineer Intern (Summer 2023 – Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/6173385002/)</li></ul>    | Chicago     | -    | - |
+| Philadelphia Phillies Baseball Operations Department      | <ul><li>[Software Engineer Associate (Spring/Summer 2023)](https://boards.greenhouse.io/philadelphiaphilliesrddepartment/jobs/5203393003)</li></ul>    | Philadelphia, PA     | -    | - |
 | Tesla      | <ul><li>[Backend Telemetry Software Engineer, Autonomy Internship (Fall 2022)](https://www.tesla.com/careers/search/job/backend-telemetry-software-engineer-autonomy-internship-fall-2022-134050)</li></ul>    | PALO ALTO, California   | -   | -   |
