@@ -4,6 +4,7 @@
 - Amazon
 - Baseten
 - Cisco
+- Citrix
 - Databricks
 - Dropbox
 - EMERSON
@@ -24,6 +25,7 @@
 - Tesla
 - Tusimple
 - Uber
+- Verkada
 - Visa
 - Wish
 - Yahoo
@@ -37,6 +39,7 @@
 | Amazon      | <ul><li>[2023 Software Development Graduate](https://www.amazon.jobs/zh/jobs/2131289/2023-software-development-graduate)</li><li>[Front-End Engineer – 2023 (US)](https://www.amazon.jobs/zh/jobs/2141834/front-end-engineer-2023-us)</li><li>[Software Development Engineer Intern - 2023 (Canada)](https://www.amazon.jobs/zh/jobs/2114265/software-development-engineer-intern-2023-canada)</li></ul>    | US, WA, Seattle / CA, BC, Vancouver    | Currently enrolled in or completed within the last 12 months a Bachelor’s or Master’s Degree in Computer Science or majors relating to these fields are considered    | -   |
 | Baseten      | <ul><li>[Full-stack engineer (New grad)](https://jobs.ashbyhq.com/baseten/f0b68c84-4110-4097-81fe-248842fe4a6b)</li></ul>    | Remote / San Francisco    | -    | -   |
 | Cisco      | <ul><li>[Software Engineer, Core Product Build Systems - (Early Career, Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Core-Product-Build-Systems-Early-Career-Meraki/1373876)</li><li>[Full Stack Engineer, Early Career (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139)</li><li>[Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer/1372966)</li></ul>    | Offsite, San Francisco, California, US    | -    | - |
+| Citrix      | <ul><li>[Software Engineer (2023)](https://jobs.citrix.com/jobs/software-engineer-2023-ft-lauderdale-florida-united-states-burlington-massachusetts-raleigh-north-carolina-remote-santa-clara-california-3883e168-1699-459b-baa1-c409b6dcdc69)</li></ul>    | Remote, United States, ... Santa Clara, California, United State    | -    | - |
 | Databricks      | <ul><li>[Software Engineer - Frontend](https://databricks.com/company/careers/open-positions/job?gh_jid=5445622002)</li><li>[Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=4477020002#grnhse_app)</li></ul>    | San Francisco, California    | -    | - |
 | Dropbox      | <ul><li>[Junior Software Engineer](https://www.dropbox.com/jobs/listing/3354694)</li></ul>    | Remote - US / Remote - Canada    | 0-2 years of full-time software development experience    | Dropbox is an equal opportunity employer. |
 | IBM      | <ul><li>[Software Developer – Performance](https://careers.ibm.com/job/16047406/software-developer-performance-remote/)</li><li>[Frontend Developer](https://careers.ibm.com/job/16045357/frontend-developer-remote/)</li></ul>    | Multiple Cities    | -    | - |
@@ -56,7 +59,8 @@
 | Tesla      | <ul><li>[Software Engineer, Mobile](https://www.tesla.com/careers/search/job/software-engineer-mobile-108805)</li><li>[Software Engineer, Front-End](https://www.tesla.com/careers/search/job/software-engineer-front-end-105361)</li><li>[Software Engineer, NodeJS](https://www.tesla.com/careers/search/job/software-engineer-nodejs-119715)</li><li>[Software Engineer, GoLang](https://www.tesla.com/careers/search/job/software-engineer-golang-74111)</li><li>[Software Engineer, Automation](https://www.tesla.com/careers/search/job/software-engineer-automation-105685)</li><li>[Software Engineer](https://www.tesla.com/careers/search/job/software-engineer-105258)</li></ul>    | 	Fremont, Palo Alto, California     | -    | - |
 | Tusimple      | <ul><li>[Onboard Platform Software: Software Engineer, C++](https://boards.greenhouse.io/tusimple/jobs/5951184002)</li><li>[Onboard Platform Software: Software Engineer, C++](https://boards.greenhouse.io/tusimple/jobs/6154308002)</li></ul>    | 	San Diego, CA     | -    | - |
 | Uber      | <ul><li>[Software Engineer](https://www.uber.com/global/en/careers/list/108957/)</li><li>[Software Engineer/Sr Software Engineer - iOS (Earner)](https://www.uber.com/global/en/careers/list/114675/)</li><li>[Software Engineer (Storage)](https://www.uber.com/global/en/careers/list/109004/)</li><li>[Software Engineer (Android)](https://www.uber.com/global/en/careers/list/114096/)</li><li>[Software Engineer - Product Intelligence](https://www.uber.com/global/en/careers/list/63377/)</li><li>[Software Engineer (iOS)](https://www.uber.com/global/en/careers/list/114093/)</li></ul>    | 	San Francisco, California /  Seattle, Washington / Remote, United States   | -    | - |
-| Visa      | <ul><li>[Software Engineer, Cybersecurity, New College Grad](https://jobs.smartrecruiters.com/Visa/743999839556268-software-engineer-cybersecurity-new-college-grad)</li></ul>    | 	Austin, TX   | Bachelors degree in Computer Science, Computer Engineering, CIS/MIS, Cybersecurity, Business or a related field, graduating December 2021 - August 2022    | - |
+| Visa      | <ul><li>[Software Engineer, Cybersecurity, New College Grad](https://jobs.smartrecruiters.com/Visa/743999839556268-software-engineer-cybersecurity-new-college-grad)</li></ul>    | 
+| Verkada      | <ul><li>[Software Engineer, Backend - University Graduate 2023](https://jobs.lever.co/verkada/b0946e83-4174-4ecb-9873-6d0030ca1023)</li><li>[Software Engineer, Security - University Graduate 2023](https://jobs.lever.co/verkada/47c2d4d8-ee90-4809-8084-dabc2e93b321)</li></ul>    | 	San Mateo, CA   | -    | - |
 | Wish      | <ul><li>[Software Engineer - Backend](https://jobs.smartrecruiters.com/Wish/743999837644118)</li><li>[Software Engineer - Core Storage](https://jobs.smartrecruiters.com/Wish/743999837642308)</li><li>[Software Engineer - User Onboarding (Android)](https://jobs.smartrecruiters.com/Wish/743999837641871)</li></ul>    | 	San Francisco, CA / Remote, United States   | -    | - |
 | Yahoo      | <ul><li>[Software Development Engineer](https://www.linkedin.com/jobs/view/3173102358/)</li><li>[Software Dev Engineer](https://www.linkedin.com/jobs/view/3172997548/)</li><li>[Software Dev Engineer I](https://www.linkedin.com/jobs/view/3136407788/)</li><li>[Software Dev Engineer I](https://www.linkedin.com/jobs/view/3159962193/)</li></ul>    | 	 United States (Remote)    | -    | - |
 | Yelp      | <ul><li>[Software Engineer – Core iOS (Remote)](https://www.yelp.careers/us/en/job/86726eae-ebd6-45ce-965c-73f0339aa52a/Software-Engineer-Core-iOS-Remote)</li></ul>    | 	San Francisco, CA / Remote, United States   | -    | - |
@@ -75,3 +79,4 @@
 | Optiver      | <ul><li>[Software Engineer Intern (Summer 2023 – Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/6173385002/)</li></ul>    | Chicago     | -    | - |
 | Philadelphia Phillies Baseball Operations Department      | <ul><li>[Software Engineer Associate (Spring/Summer 2023)](https://boards.greenhouse.io/philadelphiaphilliesrddepartment/jobs/5203393003)</li></ul>    | Philadelphia, PA     | -    | - |
 | Tesla      | <ul><li>[Backend Telemetry Software Engineer, Autonomy Internship (Fall 2022)](https://www.tesla.com/careers/search/job/backend-telemetry-software-engineer-autonomy-internship-fall-2022-134050)</li></ul>    | PALO ALTO, California   | -   | -   |
+| Verkada      | <ul><li>[Backend Software Engineering Intern - Winter 2023](https://jobs.lever.co/verkada/23c1569c-c272-4086-ab18-dd9541171125)</li></ul>    | San Mateo, CA | - | - |
