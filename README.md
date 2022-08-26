@@ -14,6 +14,7 @@
 - Lyft
 - Microsoft
 - Neeva
+- Netflix
 - Optiver
 - Oracle
 - Paypal
@@ -50,6 +51,8 @@
 | Lyft      | <ul><li>[Software Engineer - Android](https://boards.greenhouse.io/lyft/jobs/6074802002)</li></ul>    | U.S. Anywhere     | Knowledge of Java, Kotlin or NET    | - |
 | Microsoft      | <ul><li>[Software Engineering: Full Time Opportunities for University Graduates, Atlanta, GA](https://careers.microsoft.com/students/us/en/job/1388830/Software-Engineering-Full-Time-Opportunities-for-University-Graduates-Atlanta-GA)</li></ul>    | Atlanta, Georgia, United States   | -   | The salary for this role in the state of Colorado is $92,900 - $151,800.  |
 | Neeva      | <ul><li>[Software Engineer, New Grad, 2023](https://jobs.lever.co/neeva/8f7622f3-174b-421b-88f2-407c89ef55fe)</li></ul>    | Mountain View, CA OR Austin, TX   | -   | This position is located in Mountain View, CA, or Austin, TX. Remote applicants (US & Canada only) will be considered  |
+| Netflix      | <ul><li>[New Grad Software Engineer (2023)](https://jobs.netflix.com/jobs/225717269)</li></ul>    | Los Gatos, California
+Los Angeles, California   | -   | expected graduation date around Spring/Summer 2023  |
 | Optiver      | <ul><li>[Graduate Software Engineer (2023 Start – Chicago)](https://www.optiver.com/working-at-optiver/career-opportunities/6173353002/)</li></ul>    | United States     | -    | - |
 | Oracle      | <ul><li>[Software Developer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/175145/)</li><li>[Frontend Software Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/167923/)</li></ul>    | United States     | -    | - |
 | Paypal      | <ul><li>[Software Engineer 1](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-1_R0088657)</li><li>[Full Stack Software Engineer-1](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Francisco-California-United-States-of-America/Full-Stack-Software-Engineer-1_R0056537)</li></ul>    | San Jose, California, United States of America     | -    | - |
