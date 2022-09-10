@@ -9,6 +9,7 @@
 | Anyscale      | <ul><li>[Graduate Software Engineer](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12)</li></ul>    | Franklin, Tennessee, United States of America    | -    | -   |
 | Aristocrat      | <ul><li>[Software Engineer (New Grad)](https://careers.aristocrat.com/au/en/job/ARISAUR0011262EXTERNALENAU/Graduate-Software-Engineer)</li></ul>    | SAN FRANCISCO, CA     | -    | -   |
 | Baseten      | <ul><li>[Full-stack engineer (New grad)](https://jobs.ashbyhq.com/baseten/f0b68c84-4110-4097-81fe-248842fe4a6b)</li></ul>    | Remote / San Francisco    | -    | -   |
+| Bloomberg      | <ul><li>[2023 Software Engineer](https://careers.bloomberg.com/job/detail/105010)</li></ul>    | New York, NY    | -    | -   |
 | Broadway Technology      | <ul><li>[Software Consultant (New Grad) - New York](https://jobs.lever.co/broadwaytechnology/d78d1005-bf77-4e25-8e5c-7b6aa962ae64)</li></ul>    | New York, NY    | -    | Graduate in the Winter of 2022 or Spring of 2023     |
 | Byte Dance      | <ul><li>[Software Engineer, University Graduate (Lark)- 2023 Start (BS/MS)](https://jobs.bytedance.com/en/position/7138210801609591077/detail?spread=BSPP2KS)</li><li>[Software Engineer, University Graduate (Branding Ads)- 2023 Start (BS/MS)](https://careers.tiktok.com/position/7138485681051207943/detail?spread=5MWH5CQ)</li><li>[Software Engineer, University Graduate (Global CRM Engineering)- 2023 Start (BS/MS)](https://careers.tiktok.com/position/7138502234405816613/detail?spread=5MWH5CQ)</li></ul>    | Mountain View    | -    | Application deadline: February 15th, 2023     |
 | Circle      | <ul><li>[New Grad Software Engineer, Backend](https://boards.greenhouse.io/circle/jobs/6331160002)</li><li>[New Grad Software Engineer, Backend](https://boards.greenhouse.io/circle/jobs/6331155002)</li></ul>    | Seattle, San Jose, San Francisco - also open to remote in US    | -    | checkout [Openings](https://boards.greenhouse.io/circle) for more positions |
@@ -41,7 +42,7 @@
 | Wish      | <ul><li>[Software Engineer - Backend](https://jobs.smartrecruiters.com/Wish/743999837644118)</li><li>[Software Engineer - Core Storage](https://jobs.smartrecruiters.com/Wish/743999837642308)</li><li>[Software Engineer - User Onboarding (Android)](https://jobs.smartrecruiters.com/Wish/743999837641871)</li></ul>    | 	San Francisco, CA / Remote, United States   | -    | - |
 | Yahoo      | <ul><li>[Software Development Engineer](https://www.linkedin.com/jobs/view/3173102358/)</li><li>[Software Dev Engineer](https://www.linkedin.com/jobs/view/3172997548/)</li><li>[Software Dev Engineer I](https://www.linkedin.com/jobs/view/3136407788/)</li><li>[Software Dev Engineer I](https://www.linkedin.com/jobs/view/3159962193/)</li></ul>    | 	 United States (Remote)    | -    | - |
 | Yelp      | <ul><li>[Software Engineer – Core iOS (Remote)](https://www.yelp.careers/us/en/job/86726eae-ebd6-45ce-965c-73f0339aa52a/Software-Engineer-Core-iOS-Remote)</li></ul>    | 	San Francisco, CA / Remote, United States   | -    | - |
-
+| Zoom      | <ul><li>[2023 Software Development Engineer - New Grad](https://careers.zoom.us/jobs/2023-software-development-engineer-new-grad-remote-united-states)</li></ul>    | 	Remote, United States   | -    | - |
 
 
 ## Intern
