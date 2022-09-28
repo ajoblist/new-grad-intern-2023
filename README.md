@@ -76,5 +76,4 @@
 | Uber      | <ul><li>[2023 Software Engineer Internship](https://university-uber.icims.com/jobs/116847/job?mobile=false&width=1030&height=500&bga=true&needsRedirect=false&jan1offset=480&jun1offset=480)</li></ul>    | San Francisco   | -    | - |
 | Viasat      | <ul><li>[Software Engineer Intern](https://careers.viasat.com/careers/FolderDetail?folderId=11525)</li></ul>    | Boston   |  Ability to commit to a 10-12 week summer internship    | - |
 | Visa      | <ul><li>[Intern, Software Engineer - Masters - Multiple Locations - Summer 2023](https://jobs.smartrecruiters.com/Visa/743999848886815-intern-software-engineer-masters-multiple-locations-summer-2023)</li></ul>    | Austin, TX, USA   |  -    | - |
-| Tesla      | <ul><li>[Backend Telemetry Software Engineer, Autonomy Internship (Fall 2022)](https://www.tesla.com/careers/search/job/backend-telemetry-software-engineer-autonomy-internship-fall-2022-134050)</li></ul>    | PALO ALTO, California   | -   | -   |
 | Verkada      | <ul><li>[Backend Software Engineering Intern - Winter 2023](https://jobs.lever.co/verkada/23c1569c-c272-4086-ab18-dd9541171125)</li></ul>    | San Mateo, CA | - | - |
